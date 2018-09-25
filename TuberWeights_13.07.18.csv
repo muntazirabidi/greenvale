@@ -1,0 +1,469 @@
+SampleID,Person,DigDate,ProcessingDate,Variety,FieldName,Size,MidSize,TuberWeight,CubeRoot
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,2.2,1.300591447
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,2.2,1.300591447
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,2.6,1.375068867
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,2.6,1.375068867
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,3,1.44224957
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,3,1.44224957
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,3.1,1.458099736
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,3.3,1.488805553
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,3.4,1.503694596
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,3.4,1.503694596
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,3.7,1.546680374
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,3.9,1.574060917
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.1,1.600520664
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.2,1.613428646
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.2,1.613428646
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.2,1.613428646
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.3,1.626133332
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.3,1.626133332
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,4.4,1.638642541
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.4,1.638642541
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,4.5,1.650963624
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.5,1.650963624
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,4.8,1.686865331
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5,1.709975947
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.2,1.732478211
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.2,1.732478211
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.3,1.743513401
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.4,1.754410643
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.5,1.765174168
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.5,1.765174168
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,5.7,1.786315988
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.8,1.796701779
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,5.9,1.806968869
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,6.1,1.827160137
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,6.2,1.83709055
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,15-20,17.5,6.8,1.894536474
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,6.9,1.903778262
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,7,1.912931183
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,15-20,17.5,7.5,1.957433821
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,20-25,22.5,6.2,1.83709055
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.5,1.866255578
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.6,1.875777455
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.7,1.885203631
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.8,1.894536474
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.8,1.894536474
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.8,1.894536474
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,6.9,1.903778262
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,7.2,1.930978769
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,7.3,1.939877415
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,7.3,1.939877415
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,7.4,1.94869516
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,20-25,22.5,7.7,1.974680822
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,7.8,1.983192483
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,7.9,1.991631701
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.2,2.016529675
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.2,2.016529675
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.2,2.016529675
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.2,2.016529675
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.3,2.024693852
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.5,2.040827551
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.7,2.056710116
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.8,2.064560231
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.9,2.072351098
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,8.9,2.072351098
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9,2.080083823
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9,2.080083823
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9.1,2.087759479
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9.3,2.102943717
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9.5,2.117911792
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9.7,2.132671236
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9.8,2.139974961
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,9.8,2.139974961
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,20-25,22.5,10,2.15443469
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10,2.15443469
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10,2.15443469
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.2,2.168702885
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.3,2.175767114
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.3,2.175767114
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.3,2.175767114
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.4,2.182785766
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.4,2.182785766
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.6,2.196689235
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.6,2.196689235
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,10.7,2.203575453
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11,2.223980091
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11,2.223980091
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11.2,2.237377884
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11.3,2.244017027
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11.4,2.250617115
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11.5,2.257178718
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,11.5,2.257178718
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,12,2.289428485
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,12.4,2.314589055
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,12.8,2.339214191
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,12.8,2.339214191
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,13.4,2.375207738
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,13.7,2.392802511
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,13.8,2.398610307
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,14.3,2.427236043
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,14.7,2.449659817
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,20-25,22.5,15.6,2.498665955
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,10.1,2.161592333
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,10.8,2.210418899
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,11.3,2.244017027
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,12.3,2.30835024
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.4,2.375207738
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.5,2.381101578
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.6,2.386966384
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.6,2.386966384
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.7,2.392802511
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.7,2.392802511
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,13.9,2.404390113
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,25-30,27.5,14.1,2.415867089
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,14.4,2.432880798
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,14.6,2.444092389
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,25-30,27.5,14.8,2.455202052
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,14.9,2.460719379
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,15,2.466212074
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,15.2,2.477124659
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,15.5,2.493315476
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,15.5,2.493315476
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,15.8,2.509298704
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,16.3,2.535493694
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,16.5,2.545821685
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,16.7,2.55606655
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,16.7,2.55606655
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,16.8,2.56115833
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,16.9,2.566229944
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17,2.571281591
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17,2.571281591
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17.3,2.586318667
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17.4,2.591292369
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17.5,2.596247051
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17.6,2.601182894
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17.8,2.610998771
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,17.8,2.610998771
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.1,2.625585659
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.3,2.635220922
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.4,2.640012244
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.4,2.640012244
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.5,2.644786236
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.7,2.654282857
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.9,2.663712005
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,18.9,2.663712005
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,19,2.668401649
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,19.5,2.691606306
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,19.8,2.705339229
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,19.9,2.709886026
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.1,2.718934127
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.1,2.718934127
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.1,2.718934127
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.3,2.727922404
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.5,2.736851837
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.5,2.736851837
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,20.8,2.750137734
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,21,2.758924176
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,21.1,2.763296488
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,21.1,2.763296488
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,21.2,2.767655007
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,21.6,2.7849533
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,21.7,2.789244452
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,22.1,2.806278428
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,22.2,2.810504758
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,22.3,2.814718414
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,22.3,2.814718414
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,22.7,2.831448189
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,22.8,2.835599878
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23,2.84386698
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23,2.84386698
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23.3,2.856178246
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23.4,2.860258506
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23.7,2.872429965
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23.8,2.876464282
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,23.9,2.880487315
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,25-30,27.5,24.8,2.916199472
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,20.1,2.718934127
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,20.8,2.750137734
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,21.5,2.780648883
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,30-35,32.5,22.1,2.806278428
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,22.4,2.818919493
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,23,2.84386698
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,23.3,2.856178246
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,25,2.924017738
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,25.8,2.954880364
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,26,2.962496068
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,26.1,2.966289281
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,30-35,32.5,26.2,2.970072818
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,26.2,2.970072818
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,26.2,2.970072818
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,26.6,2.985111417
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,26.8,2.992574227
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,27.3,3.011070211
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,27.4,3.014742251
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,27.5,3.018405368
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,27.6,3.022059616
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,30-35,32.5,27.7,3.025705047
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,27.7,3.025705047
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,27.7,3.025705047
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,28.4,3.050980604
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,28.7,3.061685887
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,28.7,3.061685887
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,29,3.072316826
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,29.1,3.075844173
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,29.3,3.082874698
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,29.4,3.086377968
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,29.5,3.089873303
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,29.5,3.089873303
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,30.1,3.110681158
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,30.2,3.114122179
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,30.6,3.127810804
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,32,3.174802104
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,33.1,3.210770997
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,33.2,3.214001151
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,33.3,3.217224825
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,33.7,3.230055369
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,33.8,3.233247125
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,34.5,3.255415036
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,35,3.27106631
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,35.1,3.274178649
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,35.4,3.283480343
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,36.3,3.311073908
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,36.8,3.326206998
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,36.9,3.329217141
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,37.7,3.353104718
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,37.8,3.356066826
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,39.3,3.399884656
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,39.8,3.414242447
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,40.6,3.436966859
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,40.7,3.439786358
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,40.8,3.442601241
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,43.1,3.50611177
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,30-35,32.5,44.7,3.548971467
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,24.3,2.896468154
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,25.6,2.947225199
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,25.8,2.954880364
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,29.2,3.079363449
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,32.7,3.197784925
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,33.1,3.210770997
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,34,3.239611801
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,34.5,3.255415036
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,35,3.27106631
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,35.9,3.298867074
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,36.1,3.304981762
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,36.8,3.326206998
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,37.1,3.335221153
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,38,3.361975407
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,38.3,3.37079953
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,38.6,3.379577693
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,38.8,3.385404563
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,38.8,3.385404563
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,39,3.391211443
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,40.5,3.434142728
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,40.6,3.436966859
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,40.7,3.439786358
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,40.9,3.445411529
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,41.2,3.453815005
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,42.2,3.481535413
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,42.4,3.487026803
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,42.4,3.487026803
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,42.4,3.487026803
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,42.8,3.497957993
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,42.8,3.497957993
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,42.9,3.50068014
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,43.1,3.50611177
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,43.2,3.508821286
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,43.4,3.514227799
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,44.2,3.535689264
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,45.2,3.562154989
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,45.3,3.564780012
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,45.6,3.572631975
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,45.8,3.577847504
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,35-40,37.5,46.2,3.588233186
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,46.6,3.598559094
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,47.1,3.611383718
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,48.1,3.636763214
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,48.3,3.641796802
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,48.6,3.649321197
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,48.7,3.651822446
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,50,3.684031499
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,50,3.684031499
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,50.2,3.688937006
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,51.5,3.72050943
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,51.5,3.72050943
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,51.5,3.72050943
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,51.8,3.727719738
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,51.8,3.727719738
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,52,3.732511157
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,52,3.732511157
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,52.1,3.73490226
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,52.2,3.737290306
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,52.2,3.737290306
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,52.7,3.749185008
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,53.2,3.761004711
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,53.3,3.763359755
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,53.5,3.768061022
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,53.6,3.770407262
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,53.7,3.772750586
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,54.3,3.786749789
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,54.8,3.798337223
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,55.7,3.819018232
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,57.5,3.859721315
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,58.5,3.881968038
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,59.4,3.901774341
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,59.9,3.912691505
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,61.4,3.945082809
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,61.5,3.947223386
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,63.1,3.981161416
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,35-40,37.5,66.3,4.047353858
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,42.7,3.495231602
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,49.9,3.681573838
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,51.2,3.713271067
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,55.8,3.821302335
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,56,3.825862366
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,56.8,3.843994686
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,57.5,3.859721315
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,58.8,3.88859257
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,60.2,3.91921267
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,60.3,3.921381576
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,60.9,3.934344915
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,61.4,3.945082809
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,61.5,3.947223386
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,61.9,3.955762566
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,62.6,3.970618037
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,63,3.979057208
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,63.2,3.983263403
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,63.3,3.985363173
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,64,4
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,65.3,4.026901998
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,65.8,4.03715383
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,67.3,4.067601087
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,67.5,4.071626425
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,69.3,4.107501634
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,69.8,4.117356522
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,70.3,4.127164459
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,70.4,4.129120462
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,70.9,4.13887279
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,71.7,4.154381592
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,72.8,4.175518957
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,40-45,42.5,73,4.179339196
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,74.3,4.204002232
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,75.6,4.228379239
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,77.9,4.270831978
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,78.1,4.274483824
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,78.1,4.274483824
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,79.4,4.298070163
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,84.6,4.389921837
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,87.5,4.439520009
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,89,4.464745096
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,40-45,42.5,89.8,4.478082726
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,71.8,4.156312067
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,69.2,4.105524973
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,71.2,4.144702196
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,71.6,4.152449321
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,73.6,4.190758213
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,74.2,4.202115337
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,74.6,4.209652779
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,75.1,4.219036789
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,75.8,4.232104685
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,77.8,4.269003711
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,78.4,4.279949922
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,78.6,4.283586245
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,80.5,4.317827554
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,80.9,4.324967423
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,82.8,4.358564182
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,83,4.362070671
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,83.1,4.363821804
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,83.9,4.377780545
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,84.3,4.384726659
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,87,4.431047622
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,87.6,4.441210611
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,87.6,4.441210611
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,87.8,4.444587958
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,88.3,4.453008948
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,88.4,4.454689329
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,88.6,4.458046293
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,89.1,4.466416659
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,89.2,4.468086972
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,90,4.481404747
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,90.9,4.496293244
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,45-50,47.5,92,4.514357435
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,92.8,4.527404784
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,94.3,4.551667867
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,94.4,4.55327623
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,94.4,4.55327623
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,97.3,4.599432822
+3,Robert Allen,12/07/2018,13/07/2018,Venezia,TurnPike,45-50,47.5,97.3,4.599432822
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,101.6,4.666213108
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,45-50,47.5,105.5,4.725170528
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,85.2,4.400275465
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,94.6,4.556489552
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,95.1,4.564503092
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,95.6,4.572488593
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,96,4.57885697
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,96.6,4.588376451
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,97.3,4.599432822
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,98.2,4.613570512
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,100,4.641588834
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,101,4.657009508
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,102.9,4.686030651
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,103.7,4.698143223
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,103.8,4.699652909
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,104.4,4.708690726
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,104.5,4.710193659
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,105.3,4.72218275
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,106.2,4.735598114
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,107,4.747459399
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,109.4,4.782692297
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,111.3,4.810221275
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,111.4,4.811661461
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,111.7,4.815976854
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,112.8,4.831734178
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,113.3,4.838862743
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,114.2,4.851641489
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,114.2,4.851641489
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,114.4,4.854472086
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,114.7,4.858711802
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,115.9,4.875597122
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,117.6,4.899319633
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,118.8,4.915927624
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,120,4.932424149
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,120.5,4.939265245
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,121.5,4.952890873
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,122,4.959675664
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,127.5,5.033113548
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,127.6,5.034429051
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,127.8,5.037057996
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,132.2,5.094213609
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,133.2,5.107026071
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,134.7,5.126125075
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,135.6,5.137516502
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,139.9,5.191257499
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,142,5.217103446
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,150.6,5.320367811
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,50-55,52.5,157.3,5.398124635
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,121,4.946087443
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,125,5
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,132,5.09164337
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,135.4,5.13498944
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,140.3,5.19620038
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,140.4,5.197434632
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,141.2,5.207287612
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,142.7,5.225662103
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,146.1,5.266839354
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,146.6,5.272840772
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,148.5,5.295522503
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,148.8,5.299086113
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,151.2,5.32742401
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,153,5.348481241
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,157.5,5.400411491
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,157.9,5.404979403
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,159.3,5.420906608
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,160.7,5.436740767
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,165.5,5.490341174
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,165.9,5.494760851
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,166.8,5.504679214
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,55-60,57.5,177.6,5.621009515
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,153.2,5.350810719
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,155.5,5.377455161
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,167.9,5.516753324
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,175.3,5.59663914
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,175.9,5.603017082
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,183.8,5.685672439
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,185.4,5.70212294
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,186.7,5.715419418
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,192.2,5.771000711
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,201.4,5.861649176
+1,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,60-65,62.5,205,5.89636854
+2,Robert Allen,12/07/2018,13/07/2018,Soraya,Yr 1 variety trial Field,65-70,67.5,224.3,6.075887974
