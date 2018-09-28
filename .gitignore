@@ -116,3 +116,4 @@ dmypy.json
 # development files
 development.*
 *.development.*
+debug.py
