@@ -3,6 +3,7 @@
 of a group of potatoes given their weight and vice versa
 """
 
+import copy
 from itertools import groupby
 import constants
 import pandas as pd
@@ -11,7 +12,7 @@ from sklearn.neighbors import KNeighborsClassifier
 
 def load_batch_data(variety_name):
     '''Loads data from variety name csv file'''
-    with open("./training_data/{}_TuberData_test.csv".format(variety_name), 'r') as csvfile:
+    with open("./training_data/{}_TuberData.csv".format(variety_name), 'r') as csvfile:
         batch_data = pd.read_csv(csvfile)
     return pd.DataFrame(batch_data)
 
@@ -122,19 +123,22 @@ class KNNClassifier(object):
         for i, _ in enumerate(size_prediction):
             self.raw_test_data[i]['size_band'] = size_prediction[i]
 
+        # Avoid mutating of object from affecting ungrouped results
+        ungrouped_results = copy.deepcopy(self.raw_test_data)
+
         # Group by sample_id
         key = lambda x: x['sample_id']
         self.raw_test_data.sort(key=key)
 
-        results = []
+        grouped_results = []
         for k, values in groupby(self.raw_test_data, key=key):
             # Remove sample_id from tuber_details
             items = list(values)
             for item in items:
                 item.pop('sample_id', None)
 
-            results.append({
+            grouped_results.append({
                 'sample_id': k,
                 'tuber_details': items
             })
-        return results
+        return ungrouped_results, grouped_results
