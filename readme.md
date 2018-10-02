@@ -33,12 +33,12 @@ There is currently a single API endpoint
 Takes an array of tuber samples and returns their classified midsize bands.
 
 * **URL**  
-```/classify```
+`/classify`
 * **Method**  
-```POST```
+`POST`
 * **Data Params**  
 Currently the classifier uses the first sample as reference to the variety being classified. This creates the requirement that for any single request, all the samples must be of the same variety.
-  ```
+  ```json
   [
     {
       "variety": "MarisPiper",
@@ -51,14 +51,13 @@ Currently the classifier uses the first sample as reference to the variety being
       "tuber_id": "00002",
       "sample_id": "510c1fb0",
       "tuber_weight": 103.3
-    },
-    ....
+    }
   ]
   ```
 * **Response**  
-  * **Code:** ```200```  
+  * **Code:** `200`  
   **Content**
-      ```
+      ```json
       [
         {
             "sample_id": "510c1fb0",
@@ -68,14 +67,12 @@ Currently the classifier uses the first sample as reference to the variety being
                     "tuber_weight": 20.1,
                     "size_band": 27.5,
                     "tuber_id": "00154"
-                },
-                ....
+                }
             ]
-        },
-        ....
+        }
       ]
       ```
 ## Updating the training data
-The training data is stored per variety in ```.csv``` files within the ```training_data``` folder. If more data is avaiable it can be added to the end of the csv in any order as long as the format is maintained.
+The training data is stored per variety in `.csv` files within the `training_data` folder. If more data is avaiable it can be added to the end of the csv in any order as long as the format is maintained.
 
-When adding new varieties, the variety name and k-value for the knn classifier should be added to the ```constants.py``` file. Also, the data relevant to the variety should be added to a new file named ```{variety_name}_TuberData.csv``` with the data it contains in the same format as the pre-existing files.
+When adding new varieties, the variety name and k-value for the knn classifier should be added to the `constants.py` file. Also, the data relevant to the variety should be added to a new file named `{variety_name}_TuberData.csv` with the data it contains in the same format as the pre-existing files.
