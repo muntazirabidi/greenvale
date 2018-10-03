@@ -117,3 +117,6 @@ dmypy.json
 development.*
 *.development.*
 debug.py
+example_input_data.json
+*_TuberData_test.csv
+.DS_Store
