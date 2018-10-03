@@ -27,9 +27,9 @@ docker run -p 8000:8000 greenvale-knn
 ```
 
 ## API
-There is currently a single API endpoint
+There are currently two api endpoints offering a simple response with additional statistics and another that includes mu, CoV, and k in the response.
 
-### Classify
+### Simple Classify
 Takes an array of tuber samples and returns their classified midsize bands.
 
 * **URL**  
@@ -38,38 +38,89 @@ Takes an array of tuber samples and returns their classified midsize bands.
 `POST`
 * **Data Params**  
 Currently the classifier uses the first sample as reference to the variety being classified. This creates the requirement that for any single request, all the samples must be of the same variety.
-  ```json
-  [
-    {
-      "variety": "MarisPiper",
-      "tuber_id": "00001",
-      "sample_id": "510c1fb0",
-      "tuber_weight": 113.1
-    },
-    {
-      "variety": "MarisPiper",
-      "tuber_id": "00002",
-      "sample_id": "510c1fb0",
-      "tuber_weight": 103.3
-    }
+  ```
+  [ 
+    { 
+      "variety": "MarisPiper", 
+      "tuber_id": "00001", 
+      "sample_id": "510c1fb0", 
+      "tuber_weight": 113.1 
+    }, 
+    { 
+      "variety": "MarisPiper", 
+      "tuber_id": "00002", 
+      "sample_id": "510c1fb0", 
+      "tuber_weight": 103.3 
+    } 
   ]
   ```
 * **Response**  
   * **Code:** `200`  
   **Content**
-      ```json
-      [
-        {
-            "sample_id": "510c1fb0",
-            "tuber_details": [
-                {
-                    "variety": "MarisPiper",
-                    "tuber_weight": 20.1,
-                    "size_band": 27.5,
-                    "tuber_id": "00154"
-                }
-            ]
-        }
+      ```
+      [ 
+        { 
+            "sample_id": "510c1fb0", 
+            "tuber_details": [ 
+                { 
+                    "variety": "MarisPiper", 
+                    "tuber_weight": 20.1, 
+                    "size_band": 27.5, 
+                    "tuber_id": "00154" 
+                } 
+            ] 
+        } 
+      ]
+      ```
+
+### Expanded Classify
+Takes an array of tuber samples and returns their classified midsize bands, along with calculated mu, CoV, and k for the input sample collection.
+
+* **URL**  
+`/expanded-classify`
+* **Method**  
+`POST`
+* **Data Params**  
+Currently the classifier uses the first sample as reference to the variety being classified. This creates the requirement that for any single request, all the samples must be of the same variety.
+  ```
+  [ 
+    { 
+      "variety": "MarisPiper", 
+      "tuber_id": "00001", 
+      "sample_id": "510c1fb0", 
+      "tuber_weight": 113.1 
+    }, 
+    { 
+      "variety": "MarisPiper", 
+      "tuber_id": "00002", 
+      "sample_id": "510c1fb0", 
+      "tuber_weight": 103.3 
+    } 
+  ]
+  ```
+* **Response**  
+  * **Code:** `200`  
+  **Content**
+      ```
+      [ 
+        "statistics": { 
+          "k": 117.85346667372748, 
+          "mu": 39.62871287128713, 
+          "CoV": 16.68818509636155 
+        },
+        "samples": [ 
+          { 
+            "sample_id": "510c1fb0", 
+            "tuber_details": [ 
+                { 
+                    "variety": "MarisPiper", 
+                    "tuber_weight": 20.1, 
+                    "size_band": 27.5, 
+                    "tuber_id": "00154" 
+                } 
+            ] 
+          } 
+        ] 
       ]
       ```
 ## Updating the training data
